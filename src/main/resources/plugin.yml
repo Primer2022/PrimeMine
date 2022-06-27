@@ -1,0 +1,5 @@
+name: PrimeMine
+version: '${project.version}'
+main: ru.primer.Mc.Main
+api-version: 1.16
+authors: [ Primer_Legend ]
